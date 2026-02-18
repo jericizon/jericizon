@@ -48,7 +48,7 @@ With **10+ years of experience**, I focus on clean architecture, performant APIs
 
 - 🐾 **AlagaNow** – SaaS platform for pet grooming & vet bookings  
   _(In progress)_  
-  🔗 https://alaganow.pages.dev\
+  🔗 https://alaganow.pages.dev
 
 - 📊 **Admin Dashboards & APIs**  
   Secure, scalable dashboards with role-based access and analytics
