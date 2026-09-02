@@ -1,67 +1,126 @@
 # Hi, I'm Jeric Izon 👋
 
-### Senior Full-Stack / Backend Engineer · Laravel · Vue · Node.js · PostgreSQL
+### Senior Full-Stack / Backend Engineer · Nuxt.js · NestJS · TypeScript · PostgreSQL
 
-I build and ship **production-grade web applications, APIs, SaaS platforms, and business systems** — with a strong focus on backend architecture, database design, security, performance, and maintainability.
+I build and ship **production-grade web applications, APIs, SaaS platforms, and business systems**.
 
-With **12+ years of professional software development experience** and **10+ years working with Laravel**, I specialize in taking products from requirements to production — whether that's building a system from scratch, modernizing an existing application, or solving difficult backend and performance problems.
+With **12+ years of professional software development experience**, including **10+ years of Laravel**, I specialize in backend engineering, system architecture, database-driven applications, and full-stack product development.
 
-I work comfortably across the stack, but my strength is **backend engineering and systems architecture**.
+My current focus is **Nuxt.js, Vue.js, NestJS, Node.js, TypeScript, and PostgreSQL**, while leveraging extensive experience with Laravel, PHP, MySQL, Supabase, AWS, and modern cloud infrastructure.
+
+I enjoy taking ownership of problems from **requirements and architecture through implementation, testing, deployment, and optimization**.
 
 🌐 **Portfolio:** https://jericizon.github.io/me/
 💼 **Available for senior remote, freelance & consulting opportunities**
 
 ---
 
-## 🚀 What I Bring
+## 🚀 What I Do
 
 ### 🏗️ Backend & System Architecture
 
-* Design and build scalable REST APIs and backend services
-* Laravel, PHP, Node.js, NestJS and TypeScript
-* PostgreSQL, MySQL, Supabase and Redis
-* Authentication, authorization, RBAC and secure API design
-* Database architecture, optimization and query performance
-* RLS, Edge Functions and serverless backend workflows
+I build reliable backend systems that support real business workflows.
+
+* Design and develop scalable REST APIs
+* Build backend services with **NestJS / Node.js**
+* Develop complex applications with **Laravel / PHP**
+* Design PostgreSQL and MySQL database architectures
+* Implement authentication, authorization and RBAC
+* Build secure multi-role and multi-tenant systems
+* Optimize database queries and backend performance
+* Integrate third-party APIs and services
 
 ### 🎨 Full-Stack Product Development
 
-* Vue.js, Nuxt.js and React
-* Build responsive dashboards and complex business applications
-* Connect frontend applications to robust backend APIs
-* Turn product requirements and designs into production-ready software
+I work across the entire application stack, with a strong backend focus.
 
-### ☁️ Infrastructure & DevOps
+* **Nuxt.js / Vue.js** applications
+* SSR, SSG and modern web application architecture
+* Complex dashboards and business applications
+* API-driven frontend applications
+* Responsive and mobile-first interfaces
+* Product features from concept through production
 
-* Docker-based development and deployment
-* AWS and cloud infrastructure
+### ☁️ Cloud & DevOps
+
+I have hands-on experience deploying and maintaining production applications.
+
+* AWS
+* Docker
 * Terraform
-* Linux / LAMP environments
-* CI/CD and production deployments
-* Performance, reliability and operational troubleshooting
+* Linux
+* CI/CD
+* Cloud-hosted databases and applications
+* Production troubleshooting and performance optimization
 
-### 🧠 Product & Engineering Problem Solving
+### 🧠 Engineering & Problem Solving
 
-* Break complex requirements into practical technical solutions
+I don't just implement tickets — I look at the system as a whole.
+
+* Translate business requirements into technical solutions
+* Break complex problems into maintainable components
+* Identify architectural and performance bottlenecks
+* Improve existing systems without unnecessary rewrites
+* Design for security, scalability and maintainability
 * Work independently with minimal supervision
-* Improve existing systems instead of unnecessarily rewriting them
-* Identify performance, security and maintainability risks
 * Collaborate with product owners, designers and developers
-* Use modern AI-assisted development tools while maintaining engineering quality and code review standards
+* Mentor developers and contribute to technical decisions
 
 ---
 
-## 🛠️ Core Technology
+## 🛠️ Technology Stack
 
-| Area                 | Technologies                                                            |
-| -------------------- | ----------------------------------------------------------------------- |
-| **Backend**          | PHP, Laravel, Node.js, NestJS, TypeScript                               |
-| **Frontend**         | Vue.js, Nuxt.js, React, JavaScript                                      |
-| **Databases**        | PostgreSQL, MySQL, MariaDB, Redis                                       |
-| **Backend Services** | Supabase, REST APIs, RLS, Edge Functions                                |
-| **Cloud / DevOps**   | AWS, Docker, Terraform, Linux                                           |
-| **Testing**          | TDD, automated testing, API testing                                     |
-| **Architecture**     | SaaS, REST APIs, RBAC, multi-role systems, database-driven applications |
+### Current Primary Stack
+
+* **Nuxt.js**
+* **Vue.js**
+* **NestJS**
+* **Node.js**
+* **TypeScript**
+* **PostgreSQL**
+
+### Backend & Frameworks
+
+* **Laravel / PHP** — 10+ years production experience
+* NestJS
+* Node.js
+* REST APIs
+* Supabase
+* Edge Functions
+* Authentication & Authorization
+* RBAC
+* TDD & automated testing
+
+### Frontend
+
+* Nuxt.js
+* Vue.js
+* React
+* JavaScript / TypeScript
+* HTML
+* CSS / SCSS
+* Tailwind CSS
+
+### Databases & Data
+
+* PostgreSQL
+* MySQL
+* MariaDB
+* Redis
+* Database design and optimization
+* Complex queries and data modeling
+* Row Level Security (RLS)
+
+### Cloud & DevOps
+
+* AWS
+* Docker
+* Terraform
+* Linux
+* CI/CD
+* GitHub
+* GitLab
+* Bitbucket
 
 ---
 
@@ -69,20 +128,23 @@ I work comfortably across the stack, but my strength is **backend engineering an
 
 ### 🚗 ExpresswayPH
 
-**Toll + fuel + route calculator for Philippine drivers**
+**Toll, fuel & route calculator for Philippine drivers**
 
-https://expresswayph.com
+🌐 https://expresswayph.com
 
-A production utility application designed to help motorists estimate **expressway toll fees, fuel costs and trip expenses**.
+A production web application designed to help Philippine motorists estimate **expressway toll fees, fuel costs and trip expenses**.
 
-Built with a focus on:
+Key areas:
 
-* Fast, simple user experience
-* Mobile-first design
-* Dynamic toll and route data
-* Fuel cost calculations
-* SEO and discoverability
+* Toll fee calculations
+* Fuel cost estimation
+* Route-based calculations
+* Mobile-first experience
+* SEO-focused public application
 * Analytics and usage tracking
+* Continuously maintained toll and fuel data
+
+Built and independently maintained as a real-world production application.
 
 ---
 
@@ -90,38 +152,41 @@ Built with a focus on:
 
 **Pet-care booking & service marketplace**
 
-https://alaganow.pages.dev
+🌐 https://alaganow.pages.dev
 
-A SaaS platform connecting **pet owners with pet-care professionals**, with support for service discovery, bookings and provider workflows.
+A SaaS platform connecting **pet owners with pet-care professionals**, designed around service discovery, bookings and provider workflows.
 
-Technology includes:
+Technology:
 
+* Nuxt / Vue ecosystem
 * NestJS
-* Vue / Quasar
-* Tailwind CSS
 * PostgreSQL
 * REST APIs
 * Role-based workflows
+* Tailwind CSS
+
+The project demonstrates my approach to building a **multi-role, API-driven SaaS platform** from the ground up.
 
 ---
 
 ### 🏢 Business SaaS & Internal Systems
 
-I've worked on production systems involving:
+I've worked on production applications involving complex business workflows such as:
 
-* Multi-role business platforms
+* Multi-role SaaS platforms
 * Admin dashboards
 * REST APIs
 * Authentication & authorization
-* Payment and wallet workflows
-* Loyalty systems
+* Payment and wallet systems
+* Loyalty programs
 * Batch ordering
 * Corporate accounts
 * Branch management
-* Reporting & analytics
+* Tax and allowance systems
+* Reporting and analytics
 * Database-heavy business logic
 
-My approach is to design systems around **business requirements first**, then choose the simplest architecture that can reliably support them.
+These systems require more than frontend implementation — they involve **business rules, database architecture, security, APIs, infrastructure and operational reliability**.
 
 ---
 
@@ -131,73 +196,114 @@ My approach is to design systems around **business requirements first**, then ch
 
 **12+ years building production software**
 
-I've worked with startups and businesses in both **Singapore and international environments**, developing and maintaining systems used for real business operations.
+I've worked with startups and businesses in **Singapore and international environments**, building and maintaining software used for real business operations.
 
-My responsibilities have included:
+My experience includes:
 
-* Designing backend architecture and APIs
-* Building complex Laravel applications
-* Developing Node.js / NestJS services
-* Designing PostgreSQL and MySQL databases
-* Implementing authentication, RBAC and security controls
-* Optimizing slow queries and backend processes
-* Building administrative dashboards
-* Integrating third-party services and APIs
-* Deploying and maintaining cloud infrastructure
-* Mentoring developers and contributing to technical decisions
-* Taking ownership of features from requirements through production
+* Backend architecture
+* REST API development
+* Laravel application development
+* NestJS / Node.js services
+* Nuxt.js / Vue applications
+* PostgreSQL and MySQL database design
+* Authentication and authorization
+* RBAC and security
+* Third-party integrations
+* Cloud infrastructure
+* Docker-based development
+* Performance optimization
+* Testing and TDD
+* Production deployments
+* Technical mentoring
+* Feature ownership from requirements to production
 
 ---
 
-## 🧩 How I Work
+## 🧩 My Engineering Approach
 
-I don't just implement tickets.
+I believe good software engineering is not simply about writing code quickly.
 
-I aim to understand **why the feature exists, how it affects the rest of the system, and what will happen when the application grows**.
-
-My typical approach:
+My approach is:
 
 **Understand → Design → Build → Test → Review → Deploy → Improve**
 
-I value:
+I prioritize:
 
-* Clean and maintainable architecture
-* Strong database design
-* Security by default
-* Automated testing
-* Performance
-* Practical engineering decisions
-* Clear communication
-* Long-term maintainability
+* **Maintainability** — code that teams can understand and extend
+* **Security** — secure architecture and access control from the beginning
+* **Performance** — efficient APIs, queries and application behavior
+* **Testing** — confidence before shipping changes
+* **Simplicity** — avoid unnecessary complexity
+* **Scalability** — make sensible architectural decisions for future growth
+* **Ownership** — take responsibility for the complete feature, not just the code
 
 ---
 
 ## 🤖 AI-Assisted Engineering
 
-I actively use modern AI development tools to accelerate development, research, debugging and implementation.
+I actively use modern AI development tools to accelerate:
 
-AI helps me move faster — but **engineering judgment remains mine**.
+* Development
+* Debugging
+* Research
+* Refactoring
+* Test creation
+* Documentation
+* Code exploration
 
-I review generated code, validate implementations, write tests, and make sure changes are appropriate for the existing architecture before shipping them.
+AI helps me move faster, but **engineering decisions remain human-driven**.
+
+I review generated code, validate implementations, run tests, and make sure changes fit the existing architecture before they are committed or deployed.
 
 ---
 
-## 🌎 Open to Opportunities
+## 🌎 What I'm Looking For
 
-I'm particularly interested in:
+I'm interested in opportunities where I can contribute as a senior engineer and take meaningful technical ownership.
 
-* **Senior Backend Engineer**
+### Roles
+
 * **Senior Full-Stack Engineer**
-* **Laravel Developer / Engineer**
-* **Vue / Nuxt Full-Stack Engineer**
-* **Node.js / NestJS Engineer**
+* **Senior Backend Engineer**
+* **Senior Laravel Engineer**
+* **Nuxt / Vue Full-Stack Engineer**
+* **NestJS / Node.js Engineer**
 * **SaaS Engineer**
-* **Technical Lead / Product Engineer**
-* **Freelance & Consulting Projects**
+* **Product Engineer**
+* **Technical Lead**
+* **Freelance / Consulting Engineer**
 
-I'm especially interested in opportunities where I can take **technical ownership**, solve meaningful problems, and contribute beyond simply implementing tickets.
+### Ideal Environment
 
-### Let's build something useful.
+I'm particularly interested in teams that value:
+
+* Technical ownership
+* Product thinking
+* Engineering quality
+* Clean architecture
+* Modern development practices
+* Remote collaboration
+* Long-term maintainability
+
+I'm comfortable joining an existing codebase, improving an established system, or **building a product from the ground up**.
+
+---
+
+## 📫 Let's Connect
 
 🌐 **Portfolio:** https://jericizon.github.io/me/
-💼 **Available for remote & freelance opportunities**
+
+💼 **Open to senior remote, freelance & consulting opportunities**
+
+If you're building a SaaS product, business platform, API, or complex web application, I'd be happy to talk.
+
+---
+
+### ⚡ Quick Summary
+
+**12+ years** building software
+**10+ years** Laravel / PHP
+**Current:** Nuxt.js + NestJS + TypeScript + PostgreSQL
+**Specialization:** Backend systems, APIs, SaaS & databases
+**Cloud:** AWS + Docker + Terraform
+**Focus:** Architecture, security, performance & maintainability
